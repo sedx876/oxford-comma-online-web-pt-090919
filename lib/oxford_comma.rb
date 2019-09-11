@@ -1,3 +1,3 @@
-def oxford_comma(array, element)
- array.join("and") << element
+def oxford_comma(array)
+ 
 end
